@@ -112,7 +112,7 @@ Steps for deployment:
     azd deploy
     ```
 
-### CI/CD pipeline
+### CI/CD pipeline 
 
 This project includes a GitHub workflow for deploying the resources to Azure
 on every push to main. That workflow requires several Azure-related authentication secrets
